@@ -93,4 +93,17 @@ h4 {
   a {
     color: #000;
   }
+
+  h1 {
+    text-align: left;
+  }
+
+  .header__foto {
+    text-align: left;
+  }
+
+  img {
+    width: 150px;
+    border-radius: 10%;
+  }
 }
